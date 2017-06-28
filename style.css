@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: "Arial", sans-serif;
 }
 
 body {
@@ -51,6 +52,7 @@ input, textarea, button {
     resize: none;
     border: none;
     font-weight: bold;
+
 }
 
 textarea {
